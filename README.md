@@ -1,3 +1,3 @@
 # cheatsheets
 
-- [aws](/aws/README)
+- [aws](/aws/README.md)
