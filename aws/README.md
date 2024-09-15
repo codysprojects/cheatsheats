@@ -1,7 +1,7 @@
 # AWS CLI
 
 [Get IP address of instance](#get-ip-address-of-instance)  
-[List all running ec2s](list-all-running-ec2s)  
+[List all running ec2s](#List-all-running-ec2s)  
 
 
 #### Get IP address of instance  
